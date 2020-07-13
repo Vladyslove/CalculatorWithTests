@@ -2,24 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18de94db-ff5f-4f91-bf03-f62f70237777" name="Default Changelist" comment="init commit - repository is ready to start to learn the elements of unit testing">
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CalcutorWithTests.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/CalcutorWithTests-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Calculator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/CalculatorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CalcutorWithTests-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CalculatorTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +44,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsbtTreeLayoutManager">
@@ -74,6 +70,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -167,89 +164,40 @@
       <updated>1582458707630</updated>
       <workItem from="1582458710442" duration="2855000" />
       <workItem from="1582461599750" duration="541000" />
-      <workItem from="1582462161878" duration="1228000" />
+      <workItem from="1582462161878" duration="7042000" />
     </task>
+    <task id="LOCAL-00001" summary="init commit - repository is ready to start to learn the elements of unit testing">
+      <created>1582463587988</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582463587989</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit - repository is ready to start to learn the elements of unit testing" />
     <option name="LAST_COMMIT_MESSAGE" value="init commit - repository is ready to start to learn the elements of unit testing" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="401" y="131" key="#Plugins" timestamp="1582460509022">
+    <state x="293" y="27" key="CommitChangelistDialog2" timestamp="1594667967408">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="401" y="131" key="#Plugins/0.0.1536.864@0.0.1536.864" timestamp="1582460509022" />
-    <state x="494" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1582459627571">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="494" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.864@0.0.1536.864" timestamp="1582459627571" />
-    <state x="346" y="28" key="CommitChangelistDialog2" timestamp="1582463246228">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="346" y="28" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1582463246228" />
-    <state width="1537" height="221" key="GridCell.Tab.0.bottom" timestamp="1582462388062">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1537" height="221" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1582462388062" />
-    <state width="1537" height="221" key="GridCell.Tab.0.center" timestamp="1582462388062">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1537" height="221" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1582462388062" />
-    <state width="1537" height="221" key="GridCell.Tab.0.left" timestamp="1582462388061">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1537" height="221" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1582462388061" />
-    <state width="1537" height="221" key="GridCell.Tab.0.right" timestamp="1582462388062">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1537" height="221" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1582462388062" />
-    <state width="1537" height="221" key="GridCell.Tab.1.bottom" timestamp="1582462388061">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1537" height="221" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1582462388061" />
-    <state width="1537" height="221" key="GridCell.Tab.1.center" timestamp="1582462388061">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1537" height="221" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1582462388061" />
-    <state width="1537" height="221" key="GridCell.Tab.1.left" timestamp="1582462388061">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1537" height="221" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1582462388061" />
-    <state width="1537" height="221" key="GridCell.Tab.1.right" timestamp="1582462388061">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1537" height="221" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1582462388061" />
-    <state x="299" y="88" key="Maven.ArtifactSearchDialog" timestamp="1582458879287">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="299" y="88" key="Maven.ArtifactSearchDialog/0.0.1536.864@0.0.1536.864" timestamp="1582458879287" />
-    <state x="249" y="8" key="SettingsEditor" timestamp="1582462130225">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="249" y="8" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1582462130225" />
-    <state x="361" y="166" key="Vcs.Push.Dialog.v2" timestamp="1582463571440">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="361" y="166" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1582463571440" />
-    <state x="540" y="136" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1582458859251">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="540" y="136" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.864@0.0.1536.864" timestamp="1582458859251" />
-    <state x="635" y="302" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup" timestamp="1582462386891">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="635" y="302" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup/0.0.1536.864@0.0.1536.864" timestamp="1582462386891" />
-    <state x="91" y="65" key="refactoring.ChangeSignatureDialog" timestamp="1582462070107">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="91" y="65" key="refactoring.ChangeSignatureDialog/0.0.1536.864@0.0.1536.864" timestamp="1582462070107" />
-    <state x="430" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1582463519342">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="430" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1582463519342" />
+    <state x="293" y="27" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1594667967408" />
   </component>
 </project>
