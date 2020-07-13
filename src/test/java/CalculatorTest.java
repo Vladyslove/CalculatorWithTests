@@ -8,7 +8,7 @@ class CalculatorTest {
 
     static Calculator calculator;
     // todo implement about 5 test for each method in Calculator class -> you must have at least 20 tests in this class
-    // todo use assertEquals, assertTrue, assertFalse, assertNotEquals, assertThrows, assertNotNull, assertNull
+    // todo use assertEquals,  assertTrue, assertFalse, assertNotEquals, assertThrows, assertNotNull, assertNull
 
     @Test
     public void sumTest() {
